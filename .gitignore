@@ -24,12 +24,4 @@ dist-ssr
 *.sw?
 
 # My files
-Backend.md
-Features.md
-Marketing.md
-Monetization.md
-Pages.md
-Plan.md
-UI.md
-Database.md
-UX.md
+markdown

@@ -31,10 +31,10 @@ const WhoItsFor: React.FC = () => {
     ];
 
     return (
-        <section className='flex gap-10 flex-col mt-20 md:flex-row'>
-            <div className='flex flex-col gap-10'>
+        <section className='flex gap-10 flex-col mt-10 md:flex-row'>
+            <div className='flex flex-col gap-5'>
                 <h1 className='text-5xl font-semibold md:flex-0 flex-1'>Who It's For</h1>
-                <p className='text-slate-500 text-2xl flex-1'>FlashType is built for anyone who types frequently. Save time and
+                <p className='text-slate-500 text-lg flex-1'>FlashType is built for anyone who types frequently. Save time and
                 boost productivity.</p>
             </div>
             <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
